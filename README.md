@@ -1,8 +1,6 @@
 # iSH Colors
 > Themes made for iSH!
 
-[Download All](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes.zip)
-
 ## [GNOME Dark Theme](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/gnome_dark.json)
 
 ## [GNOME Light Theme](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/gnome_light.json)
@@ -34,3 +32,5 @@
 ## [Tokyo Night Dark](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/tokyo_night_dark.json)
 
 ## [Tokyo Night Light](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/tokyo_night_light.json)
+
+[Download All](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes.zip)
