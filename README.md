@@ -1,6 +1,8 @@
 # iSH Colors
 > Themes made for iSH!
 
+[Download All](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes.zip)
+
 ## [GNOME Dark Theme](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/gnome_dark.json)
 
 ## [GNOME Light Theme](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/gnome_light.json)
