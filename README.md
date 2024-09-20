@@ -1,4 +1,4 @@
-# iSH Colors
+![Banner](https://i.ibb.co/5LPZKc4/i-SH-themes-banner.png)
 > Themes made for iSH!
 
 ## [GNOME Dark Theme](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/gnome_dark.json)
