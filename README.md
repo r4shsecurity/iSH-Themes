@@ -8,7 +8,7 @@
 ![Screenshot]()
 
 ## [Catppuccin_Frappe](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/catppuccin_frappe.json)
-![Screenshot](https://ibb.co/jzVS6XQ)
+![Screenshot](https://i.ibb.co/8bzHKZf/Screenshot-from-2024-09-20-15-03-53.png)
 
 ## [Catppuccin Latte](https://github.com/r4shsecurity/iSH-Themes/raw/main/themes/catppuccin_latte.json)
 ![Screenshot]()
